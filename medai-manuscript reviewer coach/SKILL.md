@@ -1,10 +1,8 @@
 [journal-fit-checklist.md](https://github.com/user-attachments/files/34644217/journal-fit-checklist.md)
 [medai-manuscript-reviewer-coach.zip](https://github.com/user-attachments/files/34644201/medai-manuscript-reviewer-coach.zip)
 
+Simulates journal peer review for a research manuscript and produces a structured Word document reviewer report. Covers the full editorial workflow: target-journal profiling (fetches author guidelines, profiles recent papers), desk check, reporting-standard compliance, literature and novelty audit via Consensus, methodology critique, results/interpretation review, and journal fit assessment. Outputs numbered major/minor comments plus a recommendation calibrated to the target journal. 
 
-[reporting-standards.md](https://github.com/user-attachments/files/34644221/reporting-standards.md)[report-template.md](https://github.com/user-attachments/files/34644224/report-template.md)[review-rubric.md](https://github.com/user-attachments/files/34644229/review-rubric.md)[SKILL.md](https://github.com/user-attachments/files/34644230/SKILL.md)---
-name: "medai-manuscript-reviewer-coach"
-description: "Simulates journal peer review for a research manuscript and produces a structured Word document reviewer report. Covers the full editorial workflow: target-journal profiling (fetches author guidelines, profiles recent papers), desk check, reporting-standard compliance, literature and novelty audit via Consensus, methodology critique, results/interpretation review, and journal fit assessment. Outputs numbered major/minor comments plus a recommendation calibrated to the target journal. Trigger when a user uploads or pastes a manuscript and asks for \"peer review\", \"review my paper\", \"review my manuscript\", \"pre-submission review\", \"what would reviewers say\", \"critique my paper\", \"is my paper ready to submit\", \"review for [journal name]\", \"be brutal\", \"act like Reviewer 2\", or \"is this Nature material?\". Do NOT trigger for casual writing feedback on non-research documents, copyediting, or grammar checks.\n"
 ---
 
 # Peer Reviewer
