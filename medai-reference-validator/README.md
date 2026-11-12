@@ -7,3 +7,8 @@ skill verifies each DOI, compares every bibliographic field (authors + order, ye
 journal, volume, issue, pages) against the authoritative online record, scores how relevant each
 citation is to where it is cited, flags retractions/preprints/hygiene issues, and produces a
 Word report plus an Excel workbook. Trigger it even if the user only implies reference checking.
+- Confirms that your references point to real sources, checks listed DOIs, and looks up missing ones.
+- Checks author names, author order, titles, and publication details against official records.
+- Shows how well each source supports the claim it’s cited for.
+- Flags retractions, preprints, duplicate entries, and citations with no matching reference.
+- Gives you a Word report and a filterable Excel workbook to guide revisions before submission.
